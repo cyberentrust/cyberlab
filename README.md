@@ -1,2 +1,2 @@
 # cyberlab
-CyberEntrust Cyberlab Repository
+Entrust Cybersecurity Cyberlab Repository
