@@ -1,2 +1,2 @@
 # cyberlab
-Encycon Cyberlab Repository
+CyberEntrust Cyberlab Repository
